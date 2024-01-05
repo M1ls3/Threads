@@ -1,0 +1,14 @@
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\OnceImplementation\OnceImplementation\bin\Debug\netcoreapp3.1\OnceImplementation.exe
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\OnceImplementation\OnceImplementation\bin\Debug\netcoreapp3.1\OnceImplementation.deps.json
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\OnceImplementation\OnceImplementation\bin\Debug\netcoreapp3.1\OnceImplementation.runtimeconfig.json
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\OnceImplementation\OnceImplementation\bin\Debug\netcoreapp3.1\OnceImplementation.runtimeconfig.dev.json
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\OnceImplementation\OnceImplementation\bin\Debug\netcoreapp3.1\OnceImplementation.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\OnceImplementation\OnceImplementation\bin\Debug\netcoreapp3.1\OnceImplementation.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\OnceImplementation\OnceImplementation\obj\Debug\netcoreapp3.1\OnceImplementation.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\OnceImplementation\OnceImplementation\obj\Debug\netcoreapp3.1\OnceImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\OnceImplementation\OnceImplementation\obj\Debug\netcoreapp3.1\OnceImplementation.AssemblyInfoInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\OnceImplementation\OnceImplementation\obj\Debug\netcoreapp3.1\OnceImplementation.AssemblyInfo.cs
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\OnceImplementation\OnceImplementation\obj\Debug\netcoreapp3.1\OnceImplementation.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\OnceImplementation\OnceImplementation\obj\Debug\netcoreapp3.1\OnceImplementation.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\OnceImplementation\OnceImplementation\obj\Debug\netcoreapp3.1\OnceImplementation.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\OnceImplementation\OnceImplementation\obj\Debug\netcoreapp3.1\OnceImplementation.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.exe
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.json
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.dev.json
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.genruntimeconfig.cache

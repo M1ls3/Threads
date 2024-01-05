@@ -1,0 +1,14 @@
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\BookstoreApp\BookstoreApp\bin\Debug\netcoreapp3.1\BookstoreApp.exe
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\BookstoreApp\BookstoreApp\bin\Debug\netcoreapp3.1\BookstoreApp.deps.json
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\BookstoreApp\BookstoreApp\bin\Debug\netcoreapp3.1\BookstoreApp.runtimeconfig.json
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\BookstoreApp\BookstoreApp\bin\Debug\netcoreapp3.1\BookstoreApp.runtimeconfig.dev.json
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\BookstoreApp\BookstoreApp\bin\Debug\netcoreapp3.1\BookstoreApp.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\BookstoreApp\BookstoreApp\bin\Debug\netcoreapp3.1\BookstoreApp.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\BookstoreApp\BookstoreApp\obj\Debug\netcoreapp3.1\BookstoreApp.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\BookstoreApp\BookstoreApp\obj\Debug\netcoreapp3.1\BookstoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\BookstoreApp\BookstoreApp\obj\Debug\netcoreapp3.1\BookstoreApp.AssemblyInfoInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\BookstoreApp\BookstoreApp\obj\Debug\netcoreapp3.1\BookstoreApp.AssemblyInfo.cs
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\BookstoreApp\BookstoreApp\obj\Debug\netcoreapp3.1\BookstoreApp.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\BookstoreApp\BookstoreApp\obj\Debug\netcoreapp3.1\BookstoreApp.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\BookstoreApp\BookstoreApp\obj\Debug\netcoreapp3.1\BookstoreApp.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 3 курсу\Операційні системи\Laba 3\BookstoreApp\BookstoreApp\obj\Debug\netcoreapp3.1\BookstoreApp.genruntimeconfig.cache
